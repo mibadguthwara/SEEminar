@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SEEminar</string>
+    <string name="title_beranda">Beranda</string>
+    <string name="title_riwayat">Riwayat</string>
+    <string name="title_seminar">Seminar</string>
+    <string name="title_tiket">Tiket</string>
+    <string name="title_profil">Profil</string>
+</resources>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_beranda"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_beranda" />
+
+    <item
+        android:id="@+id/navigation_riwayat"
+        android:icon="@drawable/ic_history_black_24dp"
+        android:title="@string/title_riwayat" />
+
+    <item
+        android:id="@+id/navigation_seminar"
+        android:icon="@drawable/ic_record_black_24dp"
+        android:title="@string/title_seminar" />
+
+    <item
+        android:id="@+id/navigation_tiket"
+        android:icon="@drawable/ic_tiket_black_24dp"
+        android:title="@string/title_tiket" />
+
+    <item
+        android:id="@+id/navigation_profil"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:title="@string/title_profil" />
+
+</menu>
